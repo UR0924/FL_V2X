@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cd3139d-1e29-41d2-8613-54f388616d87" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1y7SCj7aphJGKL2tcfIzfyhmXPk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/QF/code/light_mappo-main" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Python.train">
+    <configuration name="456" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="light_mappo-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/envs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/envs/456.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="env" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="light_mappo-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/envs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/envs/env.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="env_runner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="light_mappo-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runner/shared" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runner/shared/env_runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="npp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="light_mappo-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/envs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/envs/npp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="light_mappo-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/train" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.456" />
+        <item itemvalue="Python.npp" />
+        <item itemvalue="Python.env_runner" />
+        <item itemvalue="Python.env" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cd3139d-1e29-41d2-8613-54f388616d87" name="Default Changelist" comment="" />
+      <created>1631601007521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631601007521</updated>
+      <workItem from="1631601014255" duration="83000" />
+      <workItem from="1631601211602" duration="272000" />
+      <workItem from="1631601508695" duration="12571000" />
+      <workItem from="1631755897658" duration="2316000" />
+      <workItem from="1632911217020" duration="49000" />
+      <workItem from="1641449744338" duration="22320000" />
+      <workItem from="1641623831094" duration="1197000" />
+      <workItem from="1642143231595" duration="1198000" />
+      <workItem from="1645406844508" duration="2947000" />
+      <workItem from="1645682625294" duration="9693000" />
+      <workItem from="1646877434729" duration="6556000" />
+      <workItem from="1647243863976" duration="39942000" />
+      <workItem from="1648436334857" duration="11930000" />
+      <workItem from="1648543400862" duration="40321000" />
+      <workItem from="1649843207106" duration="67256000" />
+      <workItem from="1651718523284" duration="47000000" />
+      <workItem from="1652334116681" duration="33315000" />
+      <workItem from="1652859694774" duration="1184000" />
+      <workItem from="1653271409598" duration="598000" />
+      <workItem from="1653985336601" duration="1196000" />
+      <workItem from="1655348554235" duration="1183000" />
+      <workItem from="1655864678171" duration="1316000" />
+      <workItem from="1657768121023" duration="58522000" />
+      <workItem from="1659331875552" duration="35562000" />
+      <workItem from="1659697776426" duration="33740000" />
+      <workItem from="1661396399687" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="663" y="318" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1659762262246">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="663" y="318" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1659762262246" />
+    <state width="1379" height="466" key="DebuggerActiveHint" timestamp="1652099397094">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1379" height="466" key="DebuggerActiveHint/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1652099397094" />
+    <state x="291" y="437" key="FileChooserDialogImpl" timestamp="1658454831211">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="291" y="437" key="FileChooserDialogImpl/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1658454831211" />
+    <state width="1877" height="227" key="GridCell.Tab.0.bottom" timestamp="1660014046080">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="227" key="GridCell.Tab.0.bottom/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1660014046080" />
+    <state width="1877" height="229" key="GridCell.Tab.0.bottom/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1659663441223" />
+    <state width="1877" height="227" key="GridCell.Tab.0.center" timestamp="1660014046080">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="227" key="GridCell.Tab.0.center/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1660014046080" />
+    <state width="1877" height="229" key="GridCell.Tab.0.center/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1659663441221" />
+    <state width="1877" height="227" key="GridCell.Tab.0.left" timestamp="1660014046079">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="227" key="GridCell.Tab.0.left/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1660014046079" />
+    <state width="1877" height="229" key="GridCell.Tab.0.left/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1659663441219" />
+    <state width="1877" height="227" key="GridCell.Tab.0.right" timestamp="1660014046080">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="227" key="GridCell.Tab.0.right/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1660014046080" />
+    <state width="1877" height="229" key="GridCell.Tab.0.right/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1659663441222" />
+    <state width="1877" height="317" key="GridCell.Tab.1.bottom" timestamp="1659494547978">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="317" key="GridCell.Tab.1.bottom/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1658459407477" />
+    <state width="1877" height="317" key="GridCell.Tab.1.bottom/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1659494547978" />
+    <state width="1877" height="317" key="GridCell.Tab.1.center" timestamp="1659494547978">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="317" key="GridCell.Tab.1.center/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1658459407477" />
+    <state width="1877" height="317" key="GridCell.Tab.1.center/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1659494547978" />
+    <state width="1877" height="317" key="GridCell.Tab.1.left" timestamp="1659494547978">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="317" key="GridCell.Tab.1.left/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1658459407477" />
+    <state width="1877" height="317" key="GridCell.Tab.1.left/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1659494547978" />
+    <state width="1877" height="317" key="GridCell.Tab.1.right" timestamp="1659494547978">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="317" key="GridCell.Tab.1.right/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1658459407477" />
+    <state width="1877" height="317" key="GridCell.Tab.1.right/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1659494547978" />
+    <state width="968" height="524" key="XDebugger.FullValuePopup" timestamp="1652099657782">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="968" height="524" key="XDebugger.FullValuePopup/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1652099657782" />
+    <state x="461" y="194" width="1443" height="838" key="find.popup" timestamp="1659945892130">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="461" y="194" width="1443" height="838" key="find.popup/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1659945892130" />
+    <state x="2511" y="128" width="1006" height="904" key="find.popup/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1659337089622" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/runner/shared/env_runner.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/runner/separated/base_runner.py</url>
+          <line>137</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/envs/env.py</url>
+          <line>490</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/light_mappo_main$jjson__1_.coverage" NAME="jjson (1) Coverage Results" MODIFIED="1650443869039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/envs" />
+    <SUITE FILE_PATH="coverage/light_mappo_main$train.coverage" NAME="train Coverage Results" MODIFIED="1660014045583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train" />
+    <SUITE FILE_PATH="coverage/light_mappo_main$json.coverage" NAME="jjson Coverage Results" MODIFIED="1650439582426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/envs" />
+    <SUITE FILE_PATH="coverage/light_mappo_main$456.coverage" NAME="456 Coverage Results" MODIFIED="1652250566670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/envs" />
+    <SUITE FILE_PATH="coverage/light_mappo_main$env.coverage" NAME="env Coverage Results" MODIFIED="1650443947145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/envs" />
+    <SUITE FILE_PATH="coverage/light_mappo_main$npp.coverage" NAME="npp Coverage Results" MODIFIED="1650505151547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/envs" />
+    <SUITE FILE_PATH="coverage/light_mappo_main$123.coverage" NAME="123 Coverage Results" MODIFIED="1650366756904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/envs" />
+    <SUITE FILE_PATH="coverage/light_mappo_main$plt.coverage" NAME="plt Coverage Results" MODIFIED="1650366777539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/envs" />
+    <SUITE FILE_PATH="coverage/light_mappo_main$env_runner.coverage" NAME="env_runner Coverage Results" MODIFIED="1650458010993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runner/shared" />
+    <SUITE FILE_PATH="coverage/light_mappo_main$shared_buffer.coverage" NAME="shared_buffer Coverage Results" MODIFIED="1641537101697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+  </component>
+</project>
