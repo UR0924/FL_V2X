@@ -22,7 +22,7 @@ MAPPO原版代码对于环境的封装过于复杂，本项目直接将环境封
 
 ## 用法
 
-- 环境部分是一个空的的实现，文件`light_mappo/envs/env_wrappers.py`里面环境部分的实现：[Code](https://github.com/tinyzqh/light_mappo/blob/main/envs/env_wrappers.py)
+- 环境部分是一个空的的实现，文件`light_mappo/envs/env_wrappers.py`里面环境部分的实现。
 
 ```python
 class Env(object):
@@ -65,16 +65,4 @@ class Env(object):
 
 只需要编写这一部分的代码，就可以无缝衔接MAPPO。初始版本，后期这一部分会单独提出来。
 
-
-## Related Efforts
-
-- [on-policy](https://github.com/marlbenchmark/on-policy) - 💌 Learn the author implementation of MAPPO.
-
-## Maintainers
-
-[@tinyzqh](https://github.com/tinyzqh).
-
-## License
-
-[MIT](LICENSE) © tinyzqh
 
